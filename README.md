@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋! My name is Shahzaib Hassan and I'm a Full Stack Web Developer</h3>
 
 ###
-
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF0anhvMWE2MWVqdHk3Y2hvYnJlcXBocHU0dWJpaWYwNjZ6dmF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 <div align="left">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
   <img width="12" />
@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF0anhvMWE2MWVqdHk3Y2hvYnJlcXBocHU0dWJpaWYwNjZ6dmF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+
 
 ###
 
